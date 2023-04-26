@@ -1,1 +1,1 @@
-# strongly-typed
+# Handy Man Project
